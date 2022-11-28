@@ -1,0 +1,18 @@
+*{
+    box-sizin:boarder-box;
+    padding: 0;
+    margin: 0;
+    background-color: blue;
+}
+li a{
+    font-family:monospace;
+    font-size:20px;
+    text-decoration:none;
+    color:white;
+}
+header{
+    background: navy;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
